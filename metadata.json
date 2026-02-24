@@ -1,0 +1,5 @@
+{
+  "name": "Military Readiness Dashboard",
+  "description": "A high-performance, RTL-compatible dashboard for monitoring military vehicle readiness and logistics, featuring real-time metrics and data visualization.",
+  "requestFramePermissions": []
+}
